@@ -72,7 +72,7 @@ textarea {
   padding: 0.2rem;
 }
 
-#inputField {
+.inputField {
   padding: 0.5rem;
   width: 75rem;
   border: none;
@@ -126,7 +126,7 @@ hr {
 @keyframes rotate {
   0% {
     transform: rotate(0);
-    color: red;
+    color: rgb(29, 27, 27);
   }
 
   100% {
