@@ -50,13 +50,13 @@ textarea {
 }
 
 .clearCompleted {
-  width: 94%;
+  width: 92%;
   height: 3.5rem;
   font-size: 1.5rem;
   border: none;
   cursor: pointer;
   margin-left: 1.8rem;
-  margin-right: 0.8rem;
+  margin-right: 2rem;
 }
 
 .clearCompleted:focus {
@@ -96,7 +96,7 @@ hr {
 .fa {
   font-size: 2rem;
   cursor: pointer;
-  background-color: rgb(146, 86, 161);;
+  background-color: rgb(146, 86, 161);
   border-radius: 50%;
 }
 
