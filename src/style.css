@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -9,8 +10,8 @@ body {
 }
 
 .mainSection {
-  width: 90vw;
-  position: absolute;
+  width: 50%;
+  margin-top: 2rem;
   left: 5%;
   top: 10%;
   display: flex;
@@ -18,6 +19,8 @@ body {
   align-items: center;
   background-color: white;
   box-shadow: 1px 1px 30px grey;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .padding {
