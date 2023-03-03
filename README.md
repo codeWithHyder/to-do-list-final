@@ -39,7 +39,7 @@
 
 # 📖 [To-Do-List] <a name="about-project"></a>
 
-**[To Do List]** is my demo project for learning ES6 modules and webpack
+**[To Do List]** is a web app. for learning ES6 modules and webpack
 and it is a simple website that displays a list of To do tasks and allows you to add and remove tasks from that list.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -72,7 +72,7 @@ and it is a simple website that displays a list of To do tasks and allows you to
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://codewithhyder.github.io/to-do-list-final/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,9 +132,9 @@ You can deploy this project using:
 
 ## 👤 Ghulam Hyder Dar
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@githubhandle](https://github.com/codeWithHyder)
+- Twitter: [@twitterhandle](https://twitter.com/@hyder3512)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +172,7 @@ If you like this project, Please give me ⭐️ and you can use it following [MI
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank and appreciate who contributes this project.
+I would be very  thankful and appreciate who contributes this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
