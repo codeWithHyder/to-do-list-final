@@ -39,7 +39,7 @@
 
 # 📖 [To-Do-List] <a name="about-project"></a>
 
-**[To Do List]** is a web app. for learning ES6 modules and webpack
+**[To Do List]** is a web app. for learning ES6 modules and webpack,
 and it is a simple website that displays a list of To do tasks and allows you to add and remove tasks from that list.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -132,9 +132,9 @@ You can deploy this project using:
 
 ## 👤 Ghulam Hyder Dar
 
-- GitHub: [@githubhandle](https://github.com/codeWithHyder)
-- Twitter: [@twitterhandle](https://twitter.com/@hyder3512)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar)
+- GitHub: [@codeWithHyder](https://github.com/codeWithHyder)
+- Twitter: [@Hyder](https://twitter.com/@hyder3512)
+- LinkedIn: [Hyder](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

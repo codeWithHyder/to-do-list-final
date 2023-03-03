@@ -4,7 +4,6 @@ import DataCollection from './modules/subClass.js';
 const dataCollection = new DataCollection();
 dataCollection.load();
 dataCollection.displayToDoList();
-
 const getInputValue = (id) => {
   const inputField = document.querySelector(id);
   const inputValue = inputField.value;
