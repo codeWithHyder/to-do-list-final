@@ -72,7 +72,7 @@ and it is a simple website that displays a list of To do tasks and allows you to
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [Live Demo Link](https://codewithhyder.github.io/to-do-list-final/)
+- [Live Demo Link](https://codewithhyder.github.io/to-do-list-final/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
